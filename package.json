@@ -1,0 +1,20 @@
+{
+  "name": "islamic-egypt-history",
+  "version": "1.0.0",
+  "description": "Islamic Civilization in Egypt - Historical website showcasing the Islamic heritage and history of Egypt",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static site'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "islamic",
+    "egypt",
+    "history",
+    "heritage",
+    "civilization"
+  ],
+  "author": "Ahmed-gg-gg",
+  "license": "MIT"
+}
